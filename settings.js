@@ -11,23 +11,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉Limule Solitarus"
+global.ownernomer = "241077738628"
+global.ownername = "🐉Kerane Plg"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉Limule Solitarus' //owner name
-global.botname = '💞𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓💞' //name of the bot
+global.ownernumber = '241077738628'  //creator number
+global.ownername = '🐉Kerane Plg' //owner name
+global.botname = 'KΣЯΛПΣ BЦG BӨƬ' //name of the bot
 
 //sticker details
-global.packname = '🍭𝐒𝐞𝐱𝐲 𝐒𝐡𝐮𝐧𝐚-𝐛𝐨𝐭'
-global.author = '🐉Limule Solitarus'
+global.packname = 'KerVne Plg🤴🏽'
+global.author = '🐉Kerane Plg'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Limule Bot Inc."
+global.wm = " Kerane Plg Inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
@@ -36,12 +36,12 @@ global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
-global.anti92 = false //auto block +92 
+global.anti92 = true //auto block +92, +509, +99 
 global.autoswview = false //auto view status/story
 
 //menu type 
