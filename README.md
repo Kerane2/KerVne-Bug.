@@ -1,8 +1,8 @@
 ## 𝐏𝐋𝐆_𝐁𝐔𝐆-𝐁𝐎𝐓
 </p>
 <p align="center">
-  <a href="https://github.com/Limule3650/Shuna_bug-bot">
-    <img alt=Support height="300" src="https://images.app.goo.gl/x8iBqo7FGbEroX9o7"> 
+  <a href="https://images.app.goo.gl/x8iBqo7FGbEroX9o7">
+    <img alt ="300" src="https://images.app.goo.gl/x8iBqo7FGbEroX9o7"> 
     </p>
 <h1 align="center">    𝕻𝖑𝖌 𝕭𝖚𝖌 𝕭𝖔𝖙🔯
 </h1>
